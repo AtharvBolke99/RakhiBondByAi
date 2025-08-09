@@ -25,7 +25,7 @@ export default function GiftIdeas() {
       description: "Custom frame with your favorite sibling memories",
       price: "₹499",
       category: "For Sister",
-      image: "/placeholder-wer4k.png",
+      image: "./placeholder-wer4k.png",
     },
     {
       id: 3,
@@ -33,7 +33,7 @@ export default function GiftIdeas() {
       description: "Create your own unique rakhi with premium materials",
       price: "₹199",
       category: "DIY",
-      image: "/placeholder-pvks3.png",
+      image: "./placeholder-pvks3.png",
     },
     {
       id: 4,
@@ -57,7 +57,7 @@ export default function GiftIdeas() {
       description: "Elegant earrings and necklace set",
       price: "₹899",
       category: "For Sister",
-      image: "/placeholder-n6g8o.png",
+      image: "./placeholder-n6g8o.png",
     },
   ]
 
